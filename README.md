@@ -61,10 +61,10 @@ Update category
 Delete category
 ![image](https://user-images.githubusercontent.com/101683611/182706865-2a991f7c-e75c-4803-bf7e-9641b89bbc5a.png)
 
-Create a new product
+Create a new product</br>
 ![image](https://user-images.githubusercontent.com/101683611/182706922-1eabe3ac-de44-40aa-90cf-172c8a3c16ef.png)
 
-Update product
+Update product</br>
 ![image](https://user-images.githubusercontent.com/101683611/182707148-e4aef0d1-726f-4bda-8aef-e5517dc531fe.png)
 
 Delete product
