@@ -32,3 +32,8 @@ Insomnia - Endpoint testing software</br>
 - Enter `USE ecommerce_db;` and `source db/seeds.sql` to setup the database schema and seed initial data to the database tables 
 
 ## Usages
+Using a third party software (Postman, Insomnia, etc...), test the end points to the server
+
+View all tags
+![image](https://user-images.githubusercontent.com/101683611/182706392-35137ab2-130b-41c0-a094-81209db522a7.png)
+
