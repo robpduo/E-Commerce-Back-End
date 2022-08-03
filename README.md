@@ -1,7 +1,6 @@
 # E-Commerce-Back-End
 
 ## Link to Video Demonstration
-https://drive.google.com/file/d/1mcMOYTomzy1JFLTn2f04-Po09yy-jsuA/view
 
 ## Description
 This application is a server side implementation for a proposed Ecommerce site. It allows the user to create and update product listings, product categories, and product tags.
