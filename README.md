@@ -16,9 +16,6 @@ Node.js - runtime environment</br>
 - BCrypt Module</br>
     
 MySql 2 - relational database</br>
-
-Heroku - app deployment</br>
-- JawsDB MySQL - Heroku add on</br>
   
 Insomnia - Endpoint testing software</br>
 
@@ -27,3 +24,11 @@ Insomnia - Endpoint testing software</br>
 - On the root directory, enter `npm install` in the terminal to download all the dependencies
 - Enter `npm start` in the root terminal to boot up the server
 - Use a third party software (Postman, Insomnia) to test out the end points
+
+## Database Schema MySQL
+- Setup the database schema using the `seeds.sql` file found in the db directory
+- Use the command `mysql -u root -p` to access the mysql database server
+- Enter `source db/schema.sql` into the command line in the root directory to create a mysql database named: `ecommerce_db`
+- Enter `USE ecommerce_db;` and `source db/seeds.sql` to setup the database schema and seed initial data to the database tables 
+
+## Usages
